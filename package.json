@@ -1,0 +1,33 @@
+{
+  "name": "rennycat-extension-pack",
+  "displayName": "RennyCat Extension Pack",
+  "description": "",
+  "publisher": "rennycat",
+  "icon": "logo.jepg",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.58.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "barrsan.reui",
+    "laurenttreguier.vscode-simple-icons",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "coenraads.bracket-pair-colorizer-2",
+    "naumovs.color-highlight",
+    "adpyke.codesnap",
+    "mikestead.dotenv",
+    "christian-kohler.path-intellisense",
+    "esbenp.prettier-vscode",
+    "ms-vsliveshare.vsliveshare",
+    "yzhang.markdown-all-in-one",
+    "golang.go",
+    "octref.vetur",
+    "kokororin.vscode-phpfmt",
+    "dart-code.dart-code",
+    "ms-azuretools.vscode-docker"
+  ]
+}
