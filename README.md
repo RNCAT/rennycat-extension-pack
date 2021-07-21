@@ -17,11 +17,11 @@
 - [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
 - [Path intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [ESLint](https//marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
 - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 
 ### Framework Specific
-
 
 - [Go](https://marketplace.visualstudio.com/items?itemName=golang.Go)
 - [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
