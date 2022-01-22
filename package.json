@@ -4,35 +4,42 @@
   "description": "",
   "publisher": "rennycat",
   "icon": "icon.jpeg",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "repository": {
     "type": "git",
     "url": "https://github.com/RNCAT/rennycat-extension-pack"
   },
   "engines": {
-    "vscode": "^1.58.0"
+    "vscode": "^1.63.2"
   },
   "categories": [
     "Extension Packs"
   ],
   "extensionPack": [
-    "barrsan.reui",
-    "laurenttreguier.vscode-simple-icons",
     "formulahendry.auto-close-tag",
     "formulahendry.auto-rename-tag",
-    "coenraads.bracket-pair-colorizer-2",
     "naumovs.color-highlight",
     "adpyke.codesnap",
+    "icrawl.discord-vscode",
+    "ms-azuretools.vscode-docker",
     "mikestead.dotenv",
-    "christian-kohler.path-intellisense",
-    "esbenp.prettier-vscode",
+    "usernamehw.errorlens",
     "dbaeumer.vscode-eslint",
+    "golang.go",
+    "ms-vscode.vscode-typescript-next",
+    "ritwickdey.liveserver",
     "ms-vsliveshare.vsliveshare",
     "yzhang.markdown-all-in-one",
-    "golang.go",
+    "PKief.material-icon-theme",
+    "christian-kohler.path-intellisense",
+    "bmewburn.vscode-intelephense-client",
+    "esbenp.prettier-vscode",
+    "prisma.prisma",
+    "ms-python.vscode-pylance",
+    "ms-python.python",
+    "barrsan.reui",
+    "tabnine.tabnine-vscode",
     "octref.vetur",
-    "kokororin.vscode-phpfmt",
-    "dart-code.dart-code",
-    "ms-azuretools.vscode-docker"
+    "arcanis.vscode-zipfs"
   ]
 }
