@@ -7,3 +7,7 @@
 ## [0.0.2]
 
 - Add ESLint
+
+## [0.0.3]
+
+- Update extensions list
