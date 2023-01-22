@@ -11,3 +11,7 @@
 ## [0.0.3]
 
 - Update extensions list
+
+## [0.0.4]
+
+- Update extensions list

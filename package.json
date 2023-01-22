@@ -4,7 +4,7 @@
   "description": "",
   "publisher": "rennycat",
   "icon": "icon.jpeg",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "repository": {
     "type": "git",
     "url": "https://github.com/RNCAT/rennycat-extension-pack"
@@ -16,30 +16,20 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "formulahendry.auto-close-tag",
-    "formulahendry.auto-rename-tag",
     "naumovs.color-highlight",
-    "adpyke.codesnap",
-    "icrawl.discord-vscode",
     "ms-azuretools.vscode-docker",
     "mikestead.dotenv",
     "usernamehw.errorlens",
     "dbaeumer.vscode-eslint",
     "golang.go",
-    "ms-vscode.vscode-typescript-next",
-    "ritwickdey.liveserver",
     "ms-vsliveshare.vsliveshare",
     "yzhang.markdown-all-in-one",
     "PKief.material-icon-theme",
     "christian-kohler.path-intellisense",
-    "bmewburn.vscode-intelephense-client",
     "esbenp.prettier-vscode",
     "prisma.prisma",
-    "ms-python.vscode-pylance",
-    "ms-python.python",
-    "barrsan.reui",
-    "tabnine.tabnine-vscode",
-    "octref.vetur",
-    "arcanis.vscode-zipfs"
+    "redhat.vscode-yaml",
+    "catppuccin.catppuccin-vsc",
+    "eamodio.gitlens"
   ]
 }
